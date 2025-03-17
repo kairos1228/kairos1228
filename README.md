@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/b569633a-1565-46b6-b067-e62f04ee23a0)
-<br><br>
+<br>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="left">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
