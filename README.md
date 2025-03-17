@@ -1,12 +1,12 @@
-<br>
+<br><br>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="left">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
 
 <!-- 🎯 자기소개 -->
 <p>
-- 🔭 I’m currently working on <a href="https://github.com/Pluswick/Intelligent_Video_Processing">Intelligent Image Processing</a><br>
-- 🌱 I’m currently studying <b>C, Arduino, Python, C++, Java</b><br>
+- 🔭 I’m currently working on <a href="https://github.com/Pluswick/Intelligent_Video_Processing">Intelligent Image Processing</a><br><br>
+- 🌱 I’m currently studying <b>C, Arduino, Python, C++, Java</b><br><br>
 - 📫 How to reach me <b>goldline10019@gmail.com</b>
 </p>
 
@@ -21,7 +21,7 @@
     <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
-
+<br><br>
 <!-- 🎯 GitHub 통계 -->
 <p>
     <!-- 📊 Most Used Languages -->
