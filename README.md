@@ -1,4 +1,4 @@
-![a building](https://cdn2.colley.kr/item_377934_1_0_title_0.jpeg)
+![a building](https://github.com/zackkrida/zackkrida/raw/main/44650035.jpg)
 <br><br>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
