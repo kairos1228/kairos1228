@@ -38,6 +38,7 @@
 
 <p>&nbsp;</p> <!-- 빈 문단 추가 -->
 <!-- 🎯 SNS 및 연락처 -->
+<p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/" target="blank">
