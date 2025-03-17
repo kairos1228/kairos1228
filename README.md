@@ -1,3 +1,4 @@
+<br>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="left">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
@@ -38,7 +39,7 @@
 </p>
 
 <!-- 공백 추가하여 아래로 분리 -->
-<br><br>
+<br>
 
 <!-- 🎯 SNS 및 연락처 -->
 <h3 align="left">Connect with me:</h3>
