@@ -39,7 +39,7 @@
 
 <p>
     <!-- 🔥 GitHub Stats -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true&locale=en" alt="kairos1228" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true&locale=en" alt="kairos1228" />
     <!-- 🚀 Current Streak -->
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kairos1228&" alt="kairos1228" />
 </p>
