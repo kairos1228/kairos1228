@@ -10,18 +10,6 @@
 </p>
 
 <p>&nbsp;</p> <!-- 빈 문단 추가 -->
-<!-- 🎯 SNS 및 연락처 -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-    </a>
-    <a href="https://instagram.com/bsc_tmscks_o" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-    </a>
-</p>
-
-<p>&nbsp;</p> <!-- 빈 문단 추가 -->
 <!-- 🎯 사용 언어 및 도구 -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,13 +21,12 @@
     <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;</p> <!-- 빈 문단 추가 -->
 <!-- 🎯 GitHub 통계 -->
 <p>
     <!-- 📊 Most Used Languages -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairos1228&show_icons=true&locale=en&layout=compact" alt="kairos1228" />
 </p>
-
+<p>&nbsp;</p> <!-- 빈 문단 추가 -->
 <p>
     <!-- 🔥 GitHub Stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true&locale=en" alt="kairos1228" />
@@ -47,4 +34,16 @@
 <p>
     <!-- 🚀 Current Streak -->
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kairos1228&" alt="kairos1228" />
+</p>
+
+<p>&nbsp;</p> <!-- 빈 문단 추가 -->
+<!-- 🎯 SNS 및 연락처 -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    </a>
+    <a href="https://instagram.com/bsc_tmscks_o" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+    </a>
 </p>
