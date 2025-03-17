@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="center">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kairos1228" alt="kairos1228" /></a> </p>
 
 - 🔭 I’m currently working on [Intelligent Image Processing](https://github.com/Pluswick/Intelligent_Video_Processing)
 
