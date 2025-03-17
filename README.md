@@ -26,19 +26,21 @@
     <!-- 📊 Most Used Languages -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairos1228&show_icons=true&locale=en&layout=compact" alt="kairos1228" />
 </p>
-<p>&nbsp;</p> <!-- 빈 문단 추가 -->
+
 <p>
     <!-- 🔥 GitHub Stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true&locale=en" alt="kairos1228" />
 </p>
+
 <p>
     <!-- 🚀 Current Streak -->
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kairos1228&" alt="kairos1228" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairos1228&" alt="kairos1228" />
 </p>
 
-<p>&nbsp;</p> <!-- 빈 문단 추가 -->
+<!-- 공백 추가하여 아래로 분리 -->
+<br><br>
+
 <!-- 🎯 SNS 및 연락처 -->
-<p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/" target="blank">
