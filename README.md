@@ -2,7 +2,7 @@
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="left">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
-
+<br>
 <!-- 🎯 자기소개 -->
 <p>
 - 🔭 I’m currently working on <a href="https://github.com/Pluswick/Intelligent_Video_Processing">Intelligent Image Processing</a><br><br>
@@ -21,13 +21,13 @@
     <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
-<br><br>
+
 <!-- 🎯 GitHub 통계 -->
 <p>
     <!-- 📊 Most Used Languages -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairos1228&show_icons=true&locale=en&layout=compact" alt="kairos1228" />
 </p>
-
+<br><br>
 <p>
     <!-- 🔥 GitHub Stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true&locale=en" alt="kairos1228" />
