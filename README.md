@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="left">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
-
+</p>
 - 🔭 I’m currently working on [Intelligent Image Processing](https://github.com/Pluswick/Intelligent_Video_Processing)
 
 - 🌱 I’m currently studying **C, Arduino, Python, C++, Java**
 
 - 📫 How to reach me **goldline10019@gmail.com**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/백승찬" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="백승찬" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="백승찬" height="30" width="40" /></a>
 <a href="https://instagram.com/bsc_tmscks_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bsc_tmscks_o" height="30" width="40" /></a>
 </p>
 
