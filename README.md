@@ -2,8 +2,7 @@
 <br>
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=150&section=header&text=💭%20Seungchan(Chan)'s%20GitHub🍵👩🏻‍💻&fontSize=40" />
-
-![Image](https://github.com/user-attachments/assets/b569633a-1565-46b6-b067-e62f04ee23a0) </div>
+</div>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="left">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
@@ -56,7 +55,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
     </a>
 </p>
-
+![Image](https://github.com/user-attachments/assets/b569633a-1565-46b6-b067-e62f04ee23a0) 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=100&section=footer"/>
 </div>
