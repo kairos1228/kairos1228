@@ -1,7 +1,7 @@
 
 <br>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=150&section=header&text=💭%20Seungchan's%20GitHub👩🏻‍💻&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=150&section=header&text=%20Seungchan's%20GitHub👩🏻‍💻💭&fontSize=40" />
 </div>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
