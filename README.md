@@ -2,8 +2,8 @@
 <br>
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=150&section=header&text=💭%20Seungchan(Chan)'s%20GitHub🍵👩🏻‍💻&fontSize=40" />
-</div>
-![Image](https://github.com/user-attachments/assets/b569633a-1565-46b6-b067-e62f04ee23a0)
+
+![Image](https://github.com/user-attachments/assets/b569633a-1565-46b6-b067-e62f04ee23a0) </div>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
 <h3 align="left">To be Passionate Embedded and IoT Developer👨‍💻 in Korea</h3>
