@@ -55,7 +55,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
     </a>
 </p>
-<p>![Image](https://github.com/user-attachments/assets/b569633a-1565-46b6-b067-e62f04ee23a0) </p>
+<p ![Image](https://github.com/user-attachments/assets/b569633a-1565-46b6-b067-e62f04ee23a0) >
+</p>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=100&section=footer"/>
 </div>
