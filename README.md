@@ -1,7 +1,7 @@
 
 <br>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=150&section=header&text=%20Seungchan's%20GitHub👩🏻‍💻💭&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=150&section=header&text=%20Seungchan's%20GitHub👨‍💻💭&fontSize=40" />
 </div>
 <!-- 🎯 제목 섹션 -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
@@ -9,7 +9,7 @@
 <br>
 <!-- 🎯 자기소개 -->
 <p>
-- 🔭 I’m currently working on <a href="https://github.com/Pluswick/IVP"> Image Video Processing</a>, <a href="https://github.com/kairos1228/IVP_Class"> IVP_Class</a>, <a href="https://github.com/kairos1228/Data_Structure_Class"> Data_Structure_Class</a><br><br>
+- 🔭 I’m currently working on <a href="https://github.com/Pluswick/IVP"> Image Video Processing</a>, <a href="https://github.com/kairos1228/IVP_Class"> IVP_Class</a>, <a href="https://github.com/orgs/Catch-Crime/repositories"> Catch-Crime</a><br><br>
 - 🌱 I’m currently studying <b>C, Arduino, Python, C++, Java</b><br><br>
 - 📫 How to reach me <b>goldline10019@gmail.com</b>
 </p>
