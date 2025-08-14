@@ -9,7 +9,7 @@
 <br>
 <!-- 🎯 자기소개 -->
 <p>
-- 🔭 I’m currently working on <a href="https://github.com/Pluswick/IVP"> Image Video Processing</a>, <a href="https://github.com/orgs/Catch-Crime/repositories"> Catch-Crime</a>, <a href="https://github.com/orgs/Catch-Crime/repositories"> Catch-Crime</a><br><br>
+- 🔭 I’m currently working on <a href="https://github.com/orgs/Catch-Crime/repositories"> Catch-Crime</a>, <a href="https://github.com/mangodetective/AWS2_GIOT_FULL"> AWS2_GIoT</a><br><br>
 - 🌱 I’m currently studying <b>C, Arduino, Python, C++, Java</b><br><br>
 - 📫 How to reach me <b>goldline10019@gmail.com</b>
 </p>
