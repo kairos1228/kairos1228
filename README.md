@@ -1,7 +1,7 @@
 <!-- ===== 헤더 배너 ===== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Seungchan's%20AIoT GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Seungchan's%20AIoTGITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36"
     alt="Header banner"
   />
 </p>
