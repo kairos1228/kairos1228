@@ -1,6 +1,5 @@
 
 <br>
-<div align="center">
     ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Seungchan's%20AIoT%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 </div>
 <!-- 🎯 제목 섹션 -->
