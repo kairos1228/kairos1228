@@ -1,7 +1,7 @@
 <!-- ===== 헤더 배너 ===== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Chan's%20AIoT%20github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Chan's%20AIoT%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36"
     alt="Header banner"
   />
 </p>
@@ -49,6 +49,10 @@
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kairos1228" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1228chan)](https://solved.ac/1228chan)
 </p>
 
 ---
