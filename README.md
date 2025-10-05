@@ -1,24 +1,22 @@
 <!-- ===== 헤더 배너 ===== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Chan's%20AIoT%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36"
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Chan's%20AIoT%20Github&reversal=false&textBg=false&desc=Artificial%20Intelligence%20of%20Things&fontSize=50&descAlignY=59&descSize=9&descAlign=50"
     alt="Header banner"
   />
 </p>
 
 <!-- ===== 프로필 타이틀 ===== -->
 <h1 align="left">Hi 👋, I'm Seungchan Baek</h1>
-<h3 align="left">Embedded & Edge AIoT Developer (based in Korea)</h3>
-
----
+<h3 align="left">I'm Passionate Embedded & Edge AIoT Developer </h3>
 
 ## About me
-- 🔭 Currently working on:  
-  - **Door-Box** (Edge AI 방문자 분석) — <a href="https://github.com/orgs/Catch-Crime/repositories">organization repos</a>  
-  - **AWS²_GIoT** (ESP32→AWS IoT→Bedrock/QuickSight) — <a href="https://github.com/mangodetective/AWS2_GIOT_FULL">repository</a>
-- 🌱 Learning: **C, C++, OpenCV, TinyML**
+- Learning: **C, C++, TinyML, RTSP, Linux, OpenCV**
+- Currently working on:  
+  - **Door-Box** (Edge AI 방문자 분석) — <a href="https://github.com/orgs/Catch-Crime/repositories">Door-Box</a>  
+  - **AWS²_GIoT** (ESP32→AWS IoT→Bedrock/QuickSight) — <a href="https://github.com/mangodetective/AWS2_GIOT_FULL">AWS² GIoT</a>
 - 📫 Email: **goldline10019@gmail.com**
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/">Profile</a>  
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/">@Seungchan Baek</a>  
 - 📷 Instagram: <a href="https://instagram.com/bsc_tmscks_o">@bsc_tmscks_o</a>
 
 ---
@@ -40,20 +38,12 @@
 
 ---
 
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kairos1228&show_icons=true&layout=compact" alt="Top languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kairos1228" alt="GitHub streak" />
-</p>
+### GitHub Stats
+<a href="https://github.com/kairos1228"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true&theme=catppuccin_latte&card_width=300" /></a>
+<a href="https://github.com/kairos1228?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairos1228&layout=compact&langs_count=8&theme=catppuccin_latte&card_width=300" /></a>
 
-<p align="left">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1228chan)](https://solved.ac/1228chan)
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1228chan)](https://solved.ac/1228chan)
+
 
 ---
 
@@ -61,5 +51,5 @@
 
 <!-- ===== 푸터 배너 ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDC9&height=100&section=footer" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer banner" />
 </p>
