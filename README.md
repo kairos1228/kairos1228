@@ -41,8 +41,8 @@
 
 ### GitHub Stats
 <a href="https://github.com/kairos1228"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kairos1228&show_icons=true&theme=catppuccin_latte&card_width=300" /></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1228chan)](https://solved.ac/1228chan)
 <a href="https://github.com/kairos1228?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairos1228&layout=compact&langs_count=8&theme=catppuccin_latte&card_width=300" /></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1228chan)](https://solved.ac/1228chan)
 
 ---
 
