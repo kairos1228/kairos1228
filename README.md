@@ -15,7 +15,7 @@
 - Currently working on:
   - **Vibe-Clean** (STM32 기반 AI 로봇청소기) — <a href="https://github.com/euyju/VibeClean">Vibe-Clean</a>  
   - **Door-Box** (Edge AI 방문자 분석 블랙박스) — <a href="https://github.com/orgs/Catch-Crime/repositories">Door-Box</a>  
-  - **AWS²_GIoT** (AWS 기반 강의실 공기질 모니터링 시스템) — <a href="https://github.com/mangodetective/AWS2_GIOT_FULL">AWS² GIoT</a>
+  - **AWS²_GIoT** (AWS 기반 강의실 공기질 모니터링 시스템) — <a href="https://github.com/kairos1228/AWS-GIoT-Project">AWS² GIoT</a>
 - 📫 Email: **goldline10019@gmail.com**
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%B0%AC-%EB%B0%B1-a548a0355/">@Seungchan Baek</a>  
 - 📷 Instagram: <a href="https://instagram.com/bsc_tmscks_o">@bsc_tmscks_o</a>
